@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Stanford Pain Management Center]]></title>
         <description><![CDATA[Stanford Pain Management Center]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stanford-pain-management-center/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 09:13:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 09:15:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stanford-pain-management-center/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ming-Chih Kao, PhD, MD]]></title>
-            <description><![CDATA[<article><h1>Ming-Chih Kao, PhD, MD</h1><p>Assistant Professor and Associate Division Chief of Operations</p></article>]]></description>
-            <link>undefinedming-chih-kao-phd-md/index.html</link>
+            <description><![CDATA[<article><h1>Ming-Chih Kao, PhD, MD</h1><p>Assistant Professor and Associate Division Chief of Operations</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f0aec14-5516-43eb-accb-40e3b88d236f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stanford-pain-management-center/ming-chih-kao-phd-md/index.html</link>
             <guid isPermaLink="false">c7e5924e-72d4-4d97-81f6-74d0e2181f36</guid>
-            <pubDate>Thu, 31 Dec 2015 09:13:09 GMT</pubDate>
+            <pubDate>Thu, 31 Dec 2015 09:15:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
