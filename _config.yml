@@ -1,0 +1,28 @@
+name: Stanford Pain Management Center
+favicon: null
+layout_spectrum: 0.5394984944723547
+typography_spectrum: 0.24860819522291422
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7486293797846884
+  lightness: 0.7251626555807889
+  saturation: 0.03350070700980723
+  rhythmicContrast: 0.2205650967080146
+purpose: []
